@@ -6,3 +6,8 @@ SekiroPython是Sekiro集群下主动hook python加解密函数的
 
 ## frida-rpc
 当你想hook某个so文件可以通过frida来主动hook实现，借助Sekiro实现远程主动Hook
+
+## Qpython
+在手机端运行python文件
+
+## 操作步骤
