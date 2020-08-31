@@ -11,3 +11,4 @@ SekiroPython是Sekiro集群下主动hook python加解密函数的
 在手机端运行python文件
 
 ## 操作步骤
+> 1. 手机端下载Qpython 

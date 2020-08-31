@@ -10,14 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c7884b2-3cbc-4960-9e7c-a44722b95a8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PySekiro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="8c7884b2-3cbc-4960-9e7c-a44722b95a8f" name="Default Changelist" comment="README.md">
+      <change afterPath="$PROJECT_DIR$/all_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Client">
+  <component name="RunManager" selected="Python.all_script">
     <configuration name="Client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySekiro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,8 +83,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="all_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PySekiro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.all_script" />
         <item itemvalue="Python.Client" />
         <item itemvalue="Python.SekiroNatMessage" />
       </list>
@@ -105,6 +123,21 @@
       <option name="presentableId" value="Default" />
       <updated>1598852953154</updated>
     </task>
+    <task id="LOCAL-00001" summary="README.md">
+      <created>1598868135624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598868135624</updated>
+    </task>
+    <task id="LOCAL-00002" summary="README.md">
+      <created>1598868171556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598868171556</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,27 +151,31 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="600" y="-695" width="709" height="695" key="#xdebugger.evaluate" timestamp="1598865066086">
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
     <state x="600" y="-695" width="709" height="695" key="#xdebugger.evaluate/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598865066086" />
-    <state width="1419" height="338" key="GridCell.Tab.0.bottom" timestamp="1598867546836">
+    <state width="1419" height="307" key="GridCell.Tab.0.bottom" timestamp="1598869731504">
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1419" height="338" key="GridCell.Tab.0.bottom/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598867546836" />
-    <state width="1419" height="338" key="GridCell.Tab.0.center" timestamp="1598867546836">
+    <state width="1419" height="307" key="GridCell.Tab.0.bottom/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598869731504" />
+    <state width="1419" height="307" key="GridCell.Tab.0.center" timestamp="1598869731503">
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1419" height="338" key="GridCell.Tab.0.center/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598867546836" />
-    <state width="1419" height="338" key="GridCell.Tab.0.left" timestamp="1598867546835">
+    <state width="1419" height="307" key="GridCell.Tab.0.center/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598869731503" />
+    <state width="1419" height="307" key="GridCell.Tab.0.left" timestamp="1598869731503">
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1419" height="338" key="GridCell.Tab.0.left/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598867546835" />
-    <state width="1419" height="338" key="GridCell.Tab.0.right" timestamp="1598867546836">
+    <state width="1419" height="307" key="GridCell.Tab.0.left/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598869731503" />
+    <state width="1419" height="307" key="GridCell.Tab.0.right" timestamp="1598869731504">
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1419" height="338" key="GridCell.Tab.0.right/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598867546836" />
+    <state width="1419" height="307" key="GridCell.Tab.0.right/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598869731504" />
     <state width="1419" height="338" key="GridCell.Tab.1.bottom" timestamp="1598867546779">
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
@@ -155,6 +192,10 @@
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="338" key="GridCell.Tab.1.right/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598867546779" />
+    <state x="405" y="-779" key="Vcs.Push.Dialog.v2" timestamp="1598868172980">
+      <screen x="-226" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="405" y="-779" key="Vcs.Push.Dialog.v2/0.23.1440.877/-226.-1057.1920.1057@-226.-1057.1920.1057" timestamp="1598868172980" />
     <state x="358" y="-735" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598867145427">
       <screen x="-226" y="-1057" width="1920" height="1057" />
     </state>
