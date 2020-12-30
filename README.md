@@ -25,4 +25,4 @@ pkg install -y tsu
 pkg install -y root-repo
 pkg install -y frida-tools
 ```
-### 愉快使用frida 脱里数据线rpc
+### 愉快使用frida-rpc + sekiro + 脱离数据线使用
